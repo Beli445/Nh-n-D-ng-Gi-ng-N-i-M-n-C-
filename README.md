@@ -1,1 +1,1 @@
-Cài đặt các thư viện và chyạ chương trình phải chạy trên linux
+Cài đặt các thư viện và chạy chương trình phải chạy trên linux
